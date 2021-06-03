@@ -1,8 +1,8 @@
 # wordpress-k8-pv 
-Here I have documented the steps to reproduce
-kubectl create -f secret.yml 
-kubectl create -f pv.yml
-kubectl create -f claim.yml
-kubectl create -f mysqlpv.yml
-kubectl create -f sqldeploy.yml
-kubectl create -f wp.yml
+# Here I have documented the steps to reproduce
+kubectl create -f secret.yml <br>
+kubectl create -f pv.yml <br>
+kubectl create -f claim.yml <br>
+kubectl create -f mysqlpv.yml <br>
+kubectl create -f sqldeploy.yml <br>
+kubectl create -f wp.yml <br>
